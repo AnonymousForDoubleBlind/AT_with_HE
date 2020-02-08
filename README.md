@@ -22,4 +22,4 @@ This project is tested under the following environment settings:
 
 ## The guidelines
 
-We provide the training and evaluations codes on CIFAR-10 / CIFAR-10-C in [here](https://github.com/AnonymousForDoubleBlind/AT_with_HE/tree/master/CIFAR-10), and those on ImageNet / ImageNet-C in [here](https://github.com/AnonymousForDoubleBlind/AT_with_HE/tree/master/ImageNet), respectively.
+We provide the training and evaluations codes on CIFAR-10 / CIFAR-10-C in [here](https://github.com/AnonymousForDoubleBlind/AT_with_HE/tree/master/CIFAR-10), and those on ImageNet / ImageNet-C in [here](https://github.com/AnonymousForDoubleBlind/AT_with_HE/tree/master/ImageNet), respectively. These codes can re-implements the results in our paper.
