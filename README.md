@@ -19,3 +19,7 @@ This project is tested under the following environment settings:
 - Python: 3.5.2
 - PyTorch: 1.2.0
 - Torchvision: 0.4.0
+
+## The guidelines
+
+We provide the training and evaluations codes on CIFAR-10 / CIFAR-10-C in [here](https://github.com/AnonymousForDoubleBlind/AT_with_HE/tree/master/CIFAR-10), and those on ImageNet / ImageNet-C in [here](https://github.com/AnonymousForDoubleBlind/AT_with_HE/tree/master/ImageNet), respectively.
