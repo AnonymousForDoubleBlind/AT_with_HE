@@ -43,8 +43,8 @@ and similarly the command for **FreeAT + HE** is
 python evaluate.py /data/ImageNet-C --eva_on_imagenet_c --FN True --WN True --s_HE 10.0 --angular_margin_HE 0.2 --resume ./resnet50_free_adv_step4_eps4_repeat4_bs256_FN_WN_s10.0_margin0.2/model_best.pth.tar
 ```
 
-### Print gradient norm
-In order to investigate the gradient norm ratios as indicated in the Figure 6 of our paper, the running command for **FreeAT + HE** is
+### Calculate gradient norm ratios
+In order to investigate the gradient norm ratios as indicated in the Figure 6 of our paper, the command for **FreeAT + HE** is
 ```shell
 python main_free.py /data/ImageNet --FN True --WN True --s_HE 10.0 --angular_margin_HE 0.2 --print_gradients True
 ```
